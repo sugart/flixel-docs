@@ -17,7 +17,7 @@ This method is the easiest way to use a single image for your FlxSprite. Using t
 
 ```
 var player = new FlxSprite();
-player.loadImage("assets/player.png");
+player.loadGraphic("assets/player.png");
 add(player);
 ```
 
